@@ -1,0 +1,36 @@
+﻿1.
+    a) /rosout 
+    b) Is responsible for logging, subscribing and republishing the messages.
+    c) /rosout , /rosout_agg
+    d) /rosout 
+    e) /rosout_agg 
+    f) /rosout/set_logger_level , /rosout/get_loggers
+    g) rosnode kill
+    h) Rosnode info: print information about node
+            rosnode kill: kill a running node
+            rosnide list: list active nodes
+            rosnode machine: list nodes running on a particular machine or list machine
+            rosnode ping: test connectivity to node
+rosnode cleanup: purge registration information of unreachable nodes
+
+
+
+
+
+
+
+4)
+a) rosnode list
+   /CET
+   /M1RAA 2024_3657_1729831140527
+   /THEJASREE
+ /rosout
+b) rostopic list
+/hello_class
+/hello_college
+/rosout
+/rosout_agg
+/welcome
+
+c)
+The `rosout` node for subscribing, logging, and republishing the messages.
